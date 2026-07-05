@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi there, I'm Triston Petersen 👋
 
-<!--
-**BlackVo1dSec/Blackvo1dSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm an aspiring Linux System Administrator with a passion for Linux, automation, and cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently building a hands-on portfolio by completing real-world Linux administration projects on Kali Linux and documenting everything I learn.
+
+---
+
+## 🎯 Current Learning Journey
+
+- Linux Administration
+- Bash Scripting
+- User & Group Management
+- Networking
+- SSH
+- Storage Management
+- System Services
+- Git & GitHub
+- Linux Security Fundamentals
+
+---
+
+## 🛠️ Technologies
+
+- Linux (Kali)
+- Bash
+- Git
+- GitHub
+- Nmap
+- OpenSSH
+
+---
+
+## 📂 Current Projects
+
+- Linux Learning Lab
+- Linux Admin Dashboard
+- User Account Management Toolkit
+- Backup Automation Scripts
+- Network Administration Labs
+- Log Analysis Projects
+
+---
+
+## 📈 2026 Goals
+
+- Build 30+ Linux administration projects
+- Master Bash scripting
+- Contribute to open-source projects
+- Become a Junior Linux System Administrator
+
+---
+
+> "The best way to learn Linux is by building, breaking, and fixing 
+
+
